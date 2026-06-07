@@ -1,14 +1,10 @@
-# sulubsquared.github.io
-
-Personal portfolio site built from scratch and hosted on GitHub Pages.
-
 ## About
 
 This is my portfolio. A single-page site covering who I am, what I've built, and where I've worked.
 
 ## What's on the site
 
-**About** — A quick intro, my skills, and a sticker board of tools I use outside of code (Sony Vegas, Lightroom).
+**About** A quick intro, my skills, and a sticker board of tools I use outside of code (Sony Vegas, Lightroom).
 
 ## Stack
 
