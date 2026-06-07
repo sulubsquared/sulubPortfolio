@@ -40,4 +40,4 @@ sulubsquared.github.io/
 ## Contact
 
 - GitHub: [sulubsquared](https://github.com/sulubsquared)
-- LinkedIn: [sulubsquared](https://www.linkedin.com/in/sulubsquared)
+- LinkedIn: [Sulub](https://www.linkedin.com/in/sulub-sulub)
